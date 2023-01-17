@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @darkovlogs
+- 👋 Hi, I’m Darko Vlogs
 - 👀 I’m interested in 5G and informations
-- 🌱 I’m currently learning RUST
-- 💞️ I’m looking to collaborate on dApp to make digital nomad life easier.
+- 🌱 I’m currently learning web3
+- 💞️ I’m in love with my Bebo
 - 📫 How to reach me, by email: contact@darkovlogs.com
 
 <!---
